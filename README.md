@@ -11,6 +11,11 @@ TecBlog foi um projeto construido no curso de Web (o link segue a baixo) como ex
   - Formatação de links
   - Posicionamentos
   
+  
+ ## Alguns resultados...
+ 
+<img src="https://github.com/Leonardo1952/TecBlog/blob/master/imagens/readme/home.png" height="400px">
+<img src="https://github.com/Leonardo1952/TecBlog/blob/master/imagens/readme/home.png" height="400px">
 
 ## Ferramentas
 
